@@ -1,0 +1,14 @@
+# Dossiers et fichiers Python à ignorer
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Fichiers de l'environnement virtuel
+venv/
+env/
+*.env
+
+# Fichiers de logs et temporaires
+*.log
+*.tmp
